@@ -6,7 +6,7 @@
     /*
     Plugin Name: POWr Event Gallery
     Plugin URI: http://www.powr.io
-    Description: Showcase upcoming events with a dynamic event gallery Add the widget to your theme, or create an Event Gallery on ANY page or post by using the shortcode [powr-event-gallery]. Then, simply visit your site and click the settings icon to customize your Event Gallery right in the page. Many more plugins & tutorials at POWr.io.
+    Description: Showcase upcoming events in a Pinterest-style gallery! Add the widget to your theme, or create an Event Gallery on ANY page or post by using the shortcode [powr-event-gallery]. Then, simply visit your site and click the settings icon to customize your Event Gallery right in the page. Many more plugins & tutorials at POWr.io.
     Author: POWr.io
     Version: 1.0
     Author URI: http://www.powr.io
