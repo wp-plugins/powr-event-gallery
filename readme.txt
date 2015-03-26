@@ -5,50 +5,53 @@ Donate link: http://powr.io/
 Tags: content slider, gallery, images, posts, event tools, event gallery, event showcase, event gallery widget, event gallery plugin, mobile responsive, responsive design, easy, personalize, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, pinterest-blog, pinterest style layout, slider widget, online gallery, upload photo, file upload, media gallery, multimedia gallery, wedding, pregnancy, graduation, honeymoon, Halloween, St. Patricks day, Christmas, holiday, baby, birthday
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.1
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-POWr Event Gallery lets you showcase upcoming events in a beautiful, Pinterest-style gallery.  Edit and customize right in your web page!
+Showcase upcoming events in a beautiful Pinterest-style gallery!
 
 == Description ==
-POWr Event Gallery is a free cloud-based application.  Create a POWr account to add, edit, and customize POWr Plugins right in your webpage.
+Showcase upcoming events in a beautiful Pinterest-style gallery!
 <br>
 <br>
-To use Event Gallery, download and install the plugin, then add to your site as a widget or a shortcode in any post or page: **[powr-banner-slider]**
-
-<blockquote>
-= <a href='https://www.powr.io/plugins/event-gallery'>Download</a>  |  <a href='http://www.powr.io/tutorials/how-to-add-event-gallery-plugin-to-your-wordpress-site'>Install Help</a>  |  <a href='http://www.powr.io/knowledge-base'>Knowledge Base</a>  |  <a href='http://www.powr.io/plugins'>More from POWr</a> =
+POWr Event Gallery is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
 <br>
-</blockquote>
-
+<br>
+First, download, install, and activate POWr Event Gallery. Then drop the widget anywhere in your theme. Or add to a page/post with the POWr icon in the WP editor.
+<br>
+= <a href='http://www.powr.io/tutorials/how-to-add-event-gallery-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
+<br>
 = Free Features =
-* Add and arrange unlimited upcoming events in a beautiful Pinterest-style gallery!
+* Add and arrange upcoming events in a beautiful Pinterest-style gallery!
 * Choose from expert-designed templates, or take control with custom fonts, borders, backgrounds, and more.
 * Easily customize layout, sizing, and spacing.
 * Built-in links to share on Facebook, Twitter, Google+, and more.
 * Built-in support for text in any language. 
 * Mobile responsive design looks great on any device.  
 <br>
-= Upgrade to POWr Premium ($3.99)/month and: =
+= Upgrade ($3.99)/mo and: =
 * Eliminate all POWr logos and watermarks
-
-* Boost plugin load speeds
+* Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
 
+
+
 == Installation ==
-To install POWr Event Gallery
-<br><br>
-1. Upload 'powr-event-gallery.php' to the '/wp-content/plugins/' directory
+Download, install, and activate POWr Event Gallery.
 <br>
-2. Activate the plugin through the 'Plugins' menu in WordPress
-<br><br>
-To add POWr Event Gallery as a widget, go to **Appearance->Widgets**, and drag POWr Event Gallery to where you'd like it to appear.
-<br><br>
-To add Event Gallery within a post or a page, simply write the shortcode **[powr-event-gallery label='MY LABEL']** (including the brackets) where you'd like your Event Gallery to appear. Then visit your page!
-<br><br>
-Want a more detailed tutorial? Visit [How to add Event Gallery to your Wordpress site](http://www.powr.io/tutorials/how-to-add-event-gallery-plugin-to-your-wordpress-site)
+<br>
+Then drop the widget anywhere in your theme.
+<br>
+<br>
+Or add to a page/post with the POWr Icon in the WP text editor.
+<br>
+<br>
+Then visit your site to and click the settings icon to edit right in the page.
+<br>
+= <a href='http://www.powr.io/tutorials/how-to-add-event-gallery-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
+
 
 
 == Frequently Asked Questions ==
@@ -86,6 +89,11 @@ Improved SSL Support
 = 1.2 =
 Improved loading speed
 
+= 1.3 =
+Easily add POWr plugins right from the text editor.
+
+= 1.4 =
+Improved functionality within the wp text editor.
 
 
 == Changelog ==
@@ -97,5 +105,11 @@ Improved loading speed
 
 = 1.2 =
 * Improved loading speed
+
+= 1.3 =
+Easily add POWr plugins right from the text editor.
+
+= 1.4 =
+Improved functionality within the wp text editor.
 
 
