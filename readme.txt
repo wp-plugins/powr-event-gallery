@@ -36,8 +36,6 @@ First, download, install, and activate POWr Event Gallery. Then drop the widget 
 * Receive premium POWr support
 * Support the development of other great plugins
 
-
-
 == Installation ==
 Download, install, and activate POWr Event Gallery.
 <br>
