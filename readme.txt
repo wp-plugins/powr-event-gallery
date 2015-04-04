@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Showcase upcoming events in a beautiful Pinterest-style gallery!
 
 == Description ==
-Showcase upcoming events in a beautiful Pinterest-style gallery!
+ Showcase upcoming events in a beautiful Pinterest-style gallery!
 <br>
 <br>
 POWr Event Gallery is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
@@ -35,6 +35,8 @@ First, download, install, and activate POWr Event Gallery. Then drop the widget 
 * Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
+
 
 == Installation ==
 Download, install, and activate POWr Event Gallery.
