@@ -4,7 +4,7 @@ Contributors: powr
 Donate link: http://powr.io/
 Tags: content slider, gallery, images, posts, event tools, event gallery, event showcase, event gallery widget, event gallery plugin, mobile responsive, responsive design, easy, personalize, customize, optimize, sidebar, drag and drop, WYSIWYG, mobile responsive, pinterest-blog, pinterest style layout, slider widget, online gallery, upload photo, file upload, media gallery, multimedia gallery, wedding, pregnancy, graduation, honeymoon, Halloween, St. Patricks day, Christmas, holiday, baby, birthday
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.2
 Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -30,6 +30,7 @@ First, download, install, and activate POWr Event Gallery. Then drop the widget 
 * Built-in support for text in any language. 
 * Mobile responsive design looks great on any device.  
 <br>
+
 = Upgrade ($3.99)/mo and: =
 * Eliminate all POWr logos and watermarks
 * Enable plugin analytics to measure visitors and page views
