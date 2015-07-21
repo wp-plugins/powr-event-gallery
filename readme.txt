@@ -24,7 +24,9 @@ First, download, install, and activate POWr Event Gallery. Then drop the widget 
 <br>
 = Free Features =
 * Add and arrange upcoming events in a beautiful Pinterest-style gallery!
-* Choose from expert-designed templates, or take control with custom fonts, borders, backgrounds, and more.
+* Use expert templates or customize from scratch. 
+* Adjust fonts, colors, borders, backgrounds, and more.
+* Accept payments, donations, and subscriptions through PayPal.
 * Easily customize layout, sizing, and spacing.
 * Built-in links to share on Facebook, Twitter, Google+, and more.
 * Built-in support for text in any language. 
